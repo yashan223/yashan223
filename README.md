@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yashan Perera</h1>
-<h3 align="center">I'm undergraduate student in NIBM</h3>
+<h3 align="center">About me</h3>
 
 - 🌱 I’m currently learning **.net Framework**
+- 🌱 I'm undergraduate student in **NIBM**
 
 
 
