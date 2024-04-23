@@ -2,7 +2,7 @@
 <h3 align="center">About me</h3>
 
 - 🌱 I’m currently learning **.net Framework**
-- 🌱 I'm undergraduate student in **NIBM**
+- 🌱 Student @ **NIBM**
 
 
 
