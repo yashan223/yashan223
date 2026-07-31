@@ -1,90 +1,68 @@
-<h1 align="center">Hi there, I'm Yashan Perera 👋</h1>
+<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=61AFEF&center=true&vcenter=true&width=480&lines=Hi%2C+I'm+Yashan+Perera+%F0%9F%90%A7;DevOps+%26+Cloud+Engineer;Automating+Cloud+%26+Infrastructure" alt="Typing Header" />
+
+  <p>
+    <b>DevOps Engineer</b> • <b>Cloud Architecture</b> • <b>CI/CD & Automation</b>
+  </p>
+
+  <p>
+    <a href="https://linkedin.com/in/yashan-perera" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/yashan223" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+
+</div>
+
+```json
+{
+  "developer": "Yashan Perera",
+  "career_target": "DevOps & Infrastructure Engineer",
+  "devops_focus": ["CI/CD Automation", "Containerization", "Cloud Infrastructure", "Systems Automation"],
+  "cloud_platforms": ["AWS", "Azure", "GCP", "Cloudflare", "DigitalOcean"],
+  "devops_tools": ["Docker", "Jenkins", "Nginx", "Linux/Bash", "Git"],
+  "scripting_backend": ["Python", "Bash", "TypeScript", ".NET", "FastAPI"]
+}
+```
+
+<br/>
+
+### ⚙️ DevOps & Cloud Stack
 
 <p align="center">
-  <b>Full-Stack & Cloud Developer</b> • Passionate about building scalable applications and cloud infrastructure
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/yashan-perera">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,aws,azure,gcp,cloudflare,linux,bash,jenkins,nginx,postgres,mysql,mongodb,redis,py,ts,js,dotnet,fastapi,express,git,github&perline=11" alt="DevOps Stack" />
   </a>
-  <a href="https://github.com/yashan223">
-    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </p>
 
 ---
 
-### 🙋‍♂️ About Me
+### 🚀 Core Focus Areas
 
-- 🔭 Working on modern full-stack web applications & backend services
-- ☁️ Building with major cloud providers (AWS, Azure, GCP, Cloudflare, DigitalOcean)
-- 🗄️ Designing SQL & NoSQL database solutions
-- ⚙️ Automating deployments with Docker, Jenkins & CI/CD pipelines
-
----
-
-### 💻 Tech Stack
-
-#### 🚀 Languages & Frameworks
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-#### 🎨 Frontend & Web Tech
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-#### ☁️ Cloud & Hosting Platforms
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![OVH](https://img.shields.io/badge/OVH-123F6D?style=for-the-badge&logo=ovh&logoColor=white)
-
-#### 🗄️ Databases & Storage
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-#### ⚙️ DevOps, Tools & Systems
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
+- 🐳 **Containerization**: Deploying & managing scalable containerized environments with Docker.
+- 🔄 **CI/CD Pipelines**: Automating test, build, and release workflows with Jenkins & Git.
+- ☁️ **Cloud Infrastructure**: Architecting cloud-native solutions across AWS, Azure, GCP & Cloudflare.
+- 📜 **Automation & Scripting**: Server management & task automation using Bash scripts and Python.
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=yashan223&theme=dark&hide_border=false&show_icons=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=yashan223&theme=dark&hide_border=false&layout=compact" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=yashan223&theme=tokyonight&show_icons=true&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=yashan223&theme=tokyonight&hide_border=true&layout=compact" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yashan223&theme=dark&hide_border=false" alt="GitHub Streak" width="98%" />
+  <img src="https://streak-stats.demolab.com/?user=yashan223&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
 </p>
 
----
+<br/>
 
 <p align="center">
-  <a href="https://github.com/yashan223">
-    <img src="https://komarev.com/ghpvc/?username=yashan223&style=flat-square&color=0077b5&label=Profile+Views" alt="Profile Views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=yashan223&style=flat-square&color=61afef&label=Profile+Views" alt="Profile Views" />
 </p>
