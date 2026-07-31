@@ -48,18 +48,6 @@
 - ☁️ **Cloud Infrastructure**: Architecting cloud-native solutions across AWS, Azure, GCP & Cloudflare.
 - 📜 **Automation & Scripting**: Server management & task automation using Bash scripts and Python.
 
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=yashan223&theme=tokyonight&show_icons=true&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=yashan223&theme=tokyonight&hide_border=true&layout=compact" width="48%" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yashan223&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
-</p>
 
 <br/>
 
