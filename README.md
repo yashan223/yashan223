@@ -11,8 +11,8 @@
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &nbsp;
-    <a href="https://github.com/yashan223" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <a href="https://yashan.me" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-yashan.me-2563EB?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio" />
     </a>
   </p>
 
@@ -21,6 +21,7 @@
 ```json
 {
   "developer": "Yashan Perera",
+  "website": "https://yashan.me",
   "career_target": "DevOps & Infrastructure Engineer",
   "devops_focus": ["CI/CD Automation", "Containerization", "Cloud Infrastructure", "Systems Automation"],
   "cloud_platforms": ["AWS", "Azure", "GCP", "Cloudflare", "DigitalOcean"],
