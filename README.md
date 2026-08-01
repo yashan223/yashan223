@@ -42,15 +42,6 @@
 
 ---
 
-### 🚀 Core Focus Areas
-
-- 🐳 **Containerization**: Deploying & managing scalable containerized environments with Docker.
-- 🔄 **CI/CD Pipelines**: Automating test, build, and release workflows with Jenkins & Git.
-- ☁️ **Cloud Infrastructure**: Architecting cloud-native solutions across AWS, Azure, GCP & Cloudflare.
-- 📜 **Automation & Scripting**: Server management & task automation using Bash scripts and Python.
-
-
-<br/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yashan223&style=flat-square&color=61afef&label=Profile+Views" alt="Profile Views" />
