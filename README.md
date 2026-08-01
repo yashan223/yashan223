@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=61AFEF&center=true&vcenter=true&width=480&lines=Hi%2C+I'm+Yashan+Perera+%F0%9F%90%A7;DevOps+%26+Cloud+Engineer" alt="Typing Header" />
 
   <p>
-    <b>DevOps Engineer</b> • <b>Cloud Architecture</b> • <b>CI/CD & Automation</b>
+    <b>DevOps Engineer</b> • <b>Cloud Developer</b> • <b>Linux Enthusiast</b>
   </p>
 
   <p>
