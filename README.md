@@ -22,7 +22,7 @@
 {
   "developer": "Yashan Perera",
   "website": "https://yashan.me",
-  "career_target": "DevOps & Infrastructure Engineer",
+  "career_target": "DevOps & Cloud Enigineer",
   "devops_focus": ["CI/CD Automation", "Containerization", "Cloud Infrastructure", "Systems Automation"],
   "cloud_platforms": ["AWS", "Azure", "GCP", "Cloudflare", "DigitalOcean"],
   "devops_tools": ["Docker", "Jenkins", "Nginx", "Linux/Bash", "Git"],
