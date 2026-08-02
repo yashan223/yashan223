@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=61AFEF&center=true&vcenter=true&width=480&lines=Hi%2C+I'm+Yashan+Perera+%F0%9F%90%A7;wonder how you got here" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=61AFEF&center=true&vcenter=true&width=500&lines=Hi%2C+I'm+Yashan+Perera+%F0%9F%90%A7;wonder+how+you+got+here" alt="Typing Header" />
 
   <p>
     <b>DevOps Engineer</b> • <b>Cloud Developer</b> • <b>Linux Enthusiast</b>
