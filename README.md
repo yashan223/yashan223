@@ -20,7 +20,7 @@
 
 <br/>
 
-### ⚙️ DevOps & Cloud Stack
+<h3 align="center">⚙️ DevOps & Cloud Stack</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
